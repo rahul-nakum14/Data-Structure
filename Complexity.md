@@ -14,11 +14,11 @@ Asymptotic Notations are the expressions that are used to represent the complexi
 
 Types of Algorithm Analysis:
 
-Worst case (Ο) (Big O)
-Best case (Ω) (Omega)
-Average case (θ) (Theta)
+1)  Worst case (Ο) (Big O)
+2) Best case (Ω) (Omega)
+3) Average case (θ) (Theta)
 
-Worst case
+Worst case:
 In the worst-case analysis, we calculate the upper bound on the running time of an algorithm.
 the worst-case time complexity of linear search would be Θ(n).
 
@@ -38,11 +38,10 @@ Types of Data Structure Asymptotic Notation
 3. Theta Notation (θ) – This notation represents the average complexity of an algorithm.
 
 WHAT IS BIG-O NOTATIONS: 
-big O notation is used to classify algorithms according to how their run time or space requirements grow as the input size grows. 
-In other words, it measures a function's time or space complexity.
- --------------------- OR -------------------------------
 Big O notation specifically describes worst case scenario. It represents the upper bound running time complexity of an algorithm.
 
+![image](https://user-images.githubusercontent.com/106817606/178297862-c1c4e94f-2f25-415e-97da-eee2ea789f7c.png)
+
 WHAT IS Omega Notation (Ω) :
-The notation Ω(n) is the formal way to express the lower bound of an algorithm's running time. 
-It measures the best case time complexity or the best amount of time an algorithm can possibly take to complete.
+The notation Ω(n) is the formal way to express the lower bound of an algorithm's running time.It measures the best case time complexity or the best amount of time an algorithm can possibly take to complete.
+
